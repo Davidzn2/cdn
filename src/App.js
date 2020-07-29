@@ -62,8 +62,7 @@ function App() {
             rel="noopener noreferrer"
             href={`https://fm-cdn.web.app/cdn/image/height=${height},width=${width}/${imgToSearch}.JPG`}
           >
-            https://fm-cdn.web.app/cdn/image/height={height},width={width}/{imgToSearch},
-            {width}.JPG
+            https://fm-cdn.web.app/cdn/image/height={height},width={width}/{imgToSearch}.JPG
           </a>
         </p>
         <Card>
