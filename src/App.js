@@ -57,6 +57,7 @@ function App() {
         <p>Puedes descargar esta imagen dando click derecho, Guardar Como</p>
         <p>
           O Puedes usar el siguiente Link:{" "}
+          
           <a
             target="_blank"
             rel="noopener noreferrer"
